@@ -1,0 +1,7 @@
+{
+  "/contacts/list": "/contacts",
+  "/contacts/get/:name": "/employees/:name",
+  "/contacts/create": "/contacts",
+  "/contacts/update/:name": "/contacts/:name",
+  "/cotacts/delete/:name": "/contacts/:name"
+}

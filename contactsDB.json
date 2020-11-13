@@ -1,0 +1,25 @@
+{
+  "contacts": [
+    {
+      "name": "Rohit",
+      "address": "Mumbai",
+      "phoneNumber": "9090909090",
+      "email":"ro@hit.com",
+      "contactType":"Batsman"
+    },
+    {
+      "name": "Dhawan",
+      "address": "Delhi",
+      "phoneNumber": "8090909090",
+      "email":"sik@har.com",
+      "contactType":"Batsman"
+    },
+    {
+      "name": "Bumrah",
+      "address": "Mumbai",
+      "phoneNumber": "9090809090",
+      "email":"bum@rah.com",
+      "contactType":"Bowler"
+    }
+  ]
+}
